@@ -1,0 +1,25 @@
+[{
+        "id": 1,
+        "title": "Fã-animation",
+        "subTitle": "A Fã-animation é um serviço de transmissão online feito por fãs para fãs (como próprio nome diz), que oferece uma ampla variedade de: séries animadas.",
+        "image": "https://thumbs.gfycat.com/BiodegradableWealthyEquestrian-size_restricted.gif",
+        "alt": "Fã-animation",
+        "directions": "row"
+    },
+    {
+        "id": 2,
+        "title": "Reveja os grandes clássicos!",
+        "subTitle": "Assista aos animes que marcaram a sua vida",
+        "image": "https://hydra.bot/_nuxt/img/6540ccd.svg",
+        "alt": "Watch on mobile",
+        "directions": "row-reverse"
+    },
+    {
+        "id": 3,
+        "title": "Divirta-se com seus amigos.",
+        "subTitle": "Assista onde e quando quiser aos animes e encha de cor seu coração!",
+        "image": "https://hydra.bot/_nuxt/img/38ff5d9.svg",
+        "alt": "Pessoas",
+        "directions": "row"
+    }
+]

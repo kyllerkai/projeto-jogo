@@ -1,0 +1,65 @@
+[
+  {
+      "id": 1,
+      "name": "Chrystian",
+      "avatar": "https://i.pinimg.com/originals/62/3a/a8/623aa8f9933ee9a286871bf6e0782538.jpg",
+      "frase": "'Claro como uma visão de um cego.'",
+      "ocupacao": "Suporte e Gestor de marketing"
+  },
+  {
+      "id": 2,
+      "name": "Kyler Kai",
+      "avatar": "https://avatars.githubusercontent.com/u/56506788?v=4",
+      "frase": "'Uma coisa é certa: ninguém sai vivo dessa vida.'",
+      "ocupacao": "Manutenção do site."
+  },
+  {
+      "id": 3,
+      "name": "Iki hiyori",
+      "avatar": "https://i.ibb.co/86GcL71/3874767c77058ddda1b1328d4fb71ac7.webp",
+      "frase": "'Kazummaaaa.'",
+      "ocupacao": "Gestora de redes sociais."
+  },
+  {
+      "id": 4,
+      "name": "Angel",
+      "avatar": "https://i.pinimg.com/originals/61/f3/84/61f3843e0e195262b929974a891ac36e.jpg",
+      "frase": "'Sei que é noite, mas vai pela sombra.'",
+      "ocupacao": "Suporte."
+  },
+  {
+      "id": 5,
+      "name": "Necromancer",
+      "avatar": "https://i.ibb.co/W5KYg03/luffy.webp",
+      "frase": "'A vida não é a vida, sem uma vida.'",
+      "ocupacao": "Manutenção do site."
+  },
+  {
+      "id": 6,
+      "name": "Mdx",
+      "avatar": "https://i.ibb.co/5B1vLbk/pp.jpg",
+      "frase": "'Tudo na vida depende do tanto que você quer comer alguém.'",
+      "ocupacao": "Cafetão."
+  },
+  {
+      "id": 7,
+      "name": "Rams",
+      "avatar": "https://i.ibb.co/vvm2YGK/download.webp",
+      "frase": "'A Arte é uma explosão.'",
+      "ocupacao": "Suporte."
+  },
+  {
+      "id": 8,
+      "name": "Mayckon",
+      "avatar": "https://i.ibb.co/5k8cdgF/b2e86f9d705bdb8844816d796c058320ca6ee86e-00.webp",
+      "frase": "'A conta você sabe como é, né? Ela pode variar de R$ 5 mil até o infinito.'",
+      "ocupacao": "Carteira do site."
+  },
+  {
+      "id": 9,
+      "name": "Diqxy1",
+      "avatar": "https://avatars.githubusercontent.com/u/43462352",
+      "frase": "'The Sovereign of Dawn.'",
+      "ocupacao": "...."
+  }
+]   

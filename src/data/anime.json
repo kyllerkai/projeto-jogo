@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "jujutsu kaisen",
+    "urlImage": "https://i.ibb.co/smNbSdR/jujutsu-kaisen-2pes-h720-1.webp",
+    "urlImageBig": "https://images.everyeye.it/img-notizie/jujutsu-kaisen-ufficiale-puntata-dell-anime-includera-scena-post-credit-inedita-v3-475769.jpg",
+    "description": "O jovem estudante Yuuji Itadori tem grande potencial físico, mas mesmo assim opta por entrar no clube de ocultismo na escola."
+  },
+  {
+    "id": 2,
+    "name": "Kakegurui",
+    "urlImage": "https://www.animeunited.com.br/wp-content/uploads/2018/01/860279.jpg",
+    "urlImageBig": "https://occ-0-5104-3851.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABVwAqD5vj5Ujipyddo_T9y-z4pPq9o8W1XMz_3WBi-Ah1vJd8_pt8HMtdVzW9Pk6omBiphLgNzExDeg93nDqNdKN82xu.jpg?r=869",
+    "description": "Yumeko Jabami aposta alto quer ganhar todas na Academia Hyakkaou, uma escola que avalia os alunos apenas por suas habilidades de jogo."
+  },
+  {
+    "id": 3,
+    "name": "BNA: Brand New Animal",
+    "urlImage": "https://i.ibb.co/tY2sX8m/brend-1.webp",
+    "urlImageBig": "https://occ-0-5104-3851.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABbJHJvUJALTaXDk6U04G5BPqsqa4itdfZz3YW9nqY24PEVD8h3a1mCXXUBUaeXyfinkihCxWa0eMrYm1SGE5Bgk7bwAy.jpg?r=3bc",
+    "description": "Transformada em garota-guaxinim, Michiru busca refúgio e respostas com ajuda do lobo-humano Shirou na zona especial de Animália."
+  },
+  {
+    "id": 4,
+    "name": "Wonder egg priority",
+    "urlImage": "https://i.ibb.co/gmj6X0x/Wonder.webp",
+    "urlImageBig": "https://th.bing.com/th/id/R.4cfab084bd139240e948ff0ad6fa9bd9?rik=FpINP%2brBa8UAyA&pid=ImgRaw&r=0",
+    "description": " Esta é a história de Ai, uma garota introvertida cujo destino muda para sempre quando ela adquire um misterioso ‘Ovo Maravilha’ de uma galeria deserta."
+  },
+  {
+    "id": 5,
+    "name": "Kimetsu no Yaiba",
+    "urlImage": "https://i.ibb.co/gZRShwr/kimetsu-no-yaiba-1.webp",
+    "urlImageBig": "https://occ-0-5104-3851.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABXUBuD4dxBWS3aYcpXQsErQPCjNKwIsQyYbpo_Ivn3JKv384q64jjwAKlfQL30AmogZu9M9BvjOtJ7bvnxt7i8E9YZZJ.jpg?r=e42",
+    "description": "Demônios massacraram sua família e amaldiçoaram sua irmã. Agora Tanjiro inicia sua jornada para encontrar a cura e se vingar."
+  },
+  {
+    "id": 6,
+    "name": "Noragami",
+    "urlImage": "https://i.ibb.co/MhsjhCq/noragami-1.webp",
+    "urlImageBig": "https://th.bing.com/th/id/R.09adf424ba626366b102e7955859dce5?rik=%2fQ5yI1Y5F9n1Xg&riu=http%3a%2f%2f1.bp.blogspot.com%2f-sHH1T5gn2ko%2fVNpW60NLbCI%2fAAAAAAAABTI%2fKIdzKlvQn8E%2fs1600%2fNoragami.full.1656789.jpg&ehk=dKUtUpwJq8wbRv30i1X4CrAR%2bT5y0Q1k9LNqG6a7JY8%3d&risl=&pid=ImgRaw&r=0",
+    "description": "Yato é um deus menor, mas está determinado a ser grande. Ele tem um plano, mas infelizmente as coisas não se dão como ele quer."
+  },
+  {
+    "id": 7,
+    "name": "Little Witch Academia",
+    "urlImage": "https://i.ytimg.com/vi/ObwvtUdwS4w/maxresdefault.jpg",
+    "urlImageBig": "https://th.bing.com/th/id/R.114a4a93ab8069c1271b6a7cb072a8d5?rik=ss7CTYX2Q%2bQtvQ&pid=ImgRaw&r=0",
+    "description": "Akko se inscreve na academia para bruxas Luna Nova. Ela pode não ser a melhor aluna da escola, mas sua atitude incrível é com certeza a chave para o sucesso!"
+  },
+  {
+    "id": 8,
+    "name": "No Game No Life",
+    "urlImage": "https://occ-0-5104-3851.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABTkjwKbkkUFoseoNvTKJy8ZS4g1KyBbtILIquRxPHRN1kXbgUwd7dk3M0Q_wJQt18bGXns5zzfckVBgD-2rJGDNH4DWL.jpg?r=d23",
+    "urlImageBig": "https://www.animeunited.com.br/oomtumtu/2018/04/nogame.jpg",
+    "description": "Os lendários irmãos gamers Sora e Shiro são transportados para um mundo onde tudo é resolvido com jogos, e a humanidade está em grave perigo de extinção."
+  },
+  {
+    "id": 9,
+    "name": "Akame ga Kill!",
+    "urlImage": "https://gramowisko.files.wordpress.com/2015/01/akame_01-1.png",
+    "urlImageBig": "https://occ-0-5104-3851.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABffCyov9fD6D40JG6n72lCdTJ7R7rulcc5rVnAdaVBBR7aPxzQSzYNcPTOU-6Eb-PA2LTdSX6ZnoKyaKEraJBnPR9q96.jpg?r=5a6",
+    "description": "Tatsumi parte em uma jornada para ajudar sua pobre aldeia. Ao ser resgatado por um bando de assassinos, ele se junta à luta deles contra o governo corrupto."
+  },
+  {
+    "id": 10,
+    "name": "Dragon Ball Kai",
+    "urlImage": "https://coletivonerd.com.br/wp-content/uploads/2019/10/ezgif-3-9b0570b2dbd9-1000x600.png",
+    "urlImageBig": "https://th.bing.com/th/id/R.428663ee2fb0e18bf53990a11c0051b4?rik=2l%2fzClBfvOqj9g&riu=http%3a%2f%2f2.bp.blogspot.com%2f-SOBFbHs5HJk%2fUJm8ZZqvKuI%2fAAAAAAAAjkc%2fe0gdI20rHb4%2fs1600%2fDragon_Ball_Kai___Eyecatch_by_tekilazo.jpg&ehk=SOFwy2rU0wMgqc64Pj%2fUaIkojbsRM2N5RqeJkYyuUCQ%3d&risl=&pid=ImgRaw&r=0",
+    "description": "Para comemorar os 20 anos de aniversário da série, a Toei relança um de seus maiores sucessos numa versão remasterizada em alta definição. Junte-se novamente a Goku e seus amigos em batalhas cósmicas!"
+  }
+]

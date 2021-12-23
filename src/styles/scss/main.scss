@@ -1,0 +1,63 @@
+@import './CardMovieInfo/CardMovieinfo.scss';
+
+body {
+    --content-margin-left: 3rem;
+    --tile-border-radius: 8px;
+    --tile-scale: 1.1;
+    --tile-width: 200px;
+    --tile-height: 300px;
+    --tile-translate-right: calc(var(--tile-width) * calc(var(--tile-scale) - 1));
+    --tile-translate-left: calc(var(--tile-translate-right) / 2 * -1);
+    scroll-behavior: smooth;
+}
+
+$i: 0;
+
+@for $i from 1 through 3 {
+    #id#{$i} {
+        margin: 0 auto;
+    }
+}
+
+#id1,
+#id2 {
+    margin-top: 11px;
+}
+
+*:focus {
+    box-shadow: none !important;
+    text-decoration: nome !important;
+}
+
+.chakra-accordion {
+    div:last-child {
+        border-bottom-width: 0 !important;
+    }
+}
+
+#GridContent {
+    .chakra-heading {
+        svg {
+            margin-top: 3px;
+            color: #8257e5;
+            margin-right: 2px
+        }
+    }
+}
+
+.spanColor {
+    color: "#8257e5" !important;
+}
+
+#anime {
+    opacity: 0;
+    transform: translateX(-10px);
+    animation: anime 0.3s forwards;
+}
+
+@keyframes anime {
+    to {
+        transform: initial;
+        opacity: 1;
+    }
+}
